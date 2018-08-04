@@ -1,7 +1,7 @@
-## MERN + G Stack
+# MERN + G Stack
 
-# MongoDb
-# Express
-# React
-# Node
-# GraphQL
+## MongoDb
+## Express
+## React
+## Node
+## GraphQL
